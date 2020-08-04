@@ -1,1 +1,18 @@
-{}
+{
+  "page-title": "Лидеры PvP ({{platform}}) - Eric's GoW Tools",
+  "page-desc": "Текущая статистика PvP боев для Gems of War, обновляется каждый час.",
+
+  "event-name": "Событие: {{name}}",
+
+  "lb-rank": "Ранг",
+  "lb-name": "Имя",
+  "lb-guild": "Гильдия",
+  "lb-score": "Текущий Счет",
+  "lb-wins-weekly": "# Побед (в неделю)",
+  "lb-losses-weekly)": "# Поражений (в неделю)",
+  "lb-winrate-weekly)": "% Побед (в неделю)",
+  "lb-wins-total)": "# Побед (Всего)",
+  "lb-losses-total)": "# Поражений (Всего)",
+  "lb-winrate-total)": "% Побед (Всего)",
+  "lb-winstreak": "Серия побед (Наибольшая)"
+}
