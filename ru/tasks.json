@@ -1,1 +1,23 @@
-{}
+{
+  "page-title": "Текущие Задания ({{platform}}) - Eric's GoW Tools",
+  "page-desc": "Задания Доски Поручений и Кампании для Gems of War, обновляется ежедневно.",
+
+  "adventure-board": "Доска Поручений",
+  "adventure-board-battles": "{{count}} Боев в {{kingdom}}",
+
+  "campaign": "Кампания",
+  "campaign-disclaimer": "Некоторые условия или подрядок заданий определяется в процессе самой игры. Тем не менее список будет полезен для обзора предстоящих испытаний, дабы не пропустить требования, к примеру, прохождение Подземенья или Доски Поручений",
+  "campaign-gold": "Золотые",
+  "campaign-silver": "Серебряные",
+  "campaign-bronze": "Бронзовые",
+
+  "unknown-trooptype": "(Тип Войска определяется в игре)",
+  "unknown-troopcolor": "(Цвет определяется в игре)",
+  "unknown-troopid": "(Войско определяется в игре)",
+  "unknown-exploredifficulty": "(Сложность задается в игре)",
+  "unknown-delvelevel": "(Уровень задается в игре)",
+
+  "chapter-format": "Глава {{number}}: {{kingdom}}",
+
+  "required": " [необходимо: {{count}} ]"
+}
